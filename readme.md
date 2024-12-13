@@ -1,5 +1,3 @@
-Entendi! Vamos criar um `README.md` básico e explicativo, focado na descrição e no uso do projeto Shopee Cart.
-
 ---
 
 # Shopee Cart
